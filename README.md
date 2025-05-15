@@ -61,7 +61,7 @@ This project simulates a real-world enterprise network setup, focusing on:
 * Wireshark (for VPN traffic inspection)
 * Microsoft Visio (network diagram)
 
-###👨 Team Members
+### 👨 Team Members
 * Ahmed Mohamed Gharib
 * Abdul Rahman Mohammed Hamed
 * Hassan Muhammed Abdelnabi
