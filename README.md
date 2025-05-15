@@ -38,14 +38,13 @@ This project simulates a real-world enterprise network setup, focusing on:
 ├── DEPU Final Project.pkt
 ├── Documentation File.pdf
 ├── Project Design.png
-├── README.md
 ├── Assests
 │   ├── Video 01
 │   ├── Video 02
 │   ├── Video 03
 │   ├── Video 04
 │   └── Video 05
-└── 
+└── README.md
 ```
 
 ### 🧪 Testing & Validation
