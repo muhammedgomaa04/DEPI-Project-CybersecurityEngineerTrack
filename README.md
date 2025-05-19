@@ -30,7 +30,7 @@ This project simulates a real-world enterprise network setup, focusing on:
 
 ## 🖼️ Network Topology Diagram
 
-![Network Design Diagram](./Project%20Design.png)
+![Network Design Diagram](./Project%20Design%20(pkt).png)
 
 ---
 
