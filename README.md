@@ -143,11 +143,11 @@ We implemented layered security, optimized routing, and secure branch interconne
 
 ## 🧑‍💻 Team Members
 
-- [Ahmed Mohamed Gharib](https://www.linkedin.com/in/ahmedgharib0/)
-- [Abdul Rahman Mohammed Hamed](https://www.linkedin.com/in/abdomohammed2410/)
-- [Hassan Muhammed Abdelnabi](https://www.linkedin.com/in/hassan-abdalnabi-57533617b/)
-- [Muhammed Sami Elhamzawy](https://www.linkedin.com/in/mosami74/)
-- [Muhammed Mustafa Gomaa](https://www.linkedin.com/in/muhammed-gomaa-/)
+- [Ahmed Mohamed Gharib](https://www.linkedin.com/in/ahmedgharib0/).
+- [Abdul Rahman Mohammed Hamed](https://www.linkedin.com/in/abdomohammed2410/).
+- [Hassan Muhammed Abdelnabi](https://www.linkedin.com/in/hassan-abdalnabi-57533617b/).
+- [Muhammed Sami Elhamzawy](https://www.linkedin.com/in/mosami74/).
+- [Muhammed Mustafa Gomaa](https://www.linkedin.com/in/muhammed-gomaa-/).
 
 ---
 
